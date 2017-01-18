@@ -5745,12 +5745,12 @@ local base = { -- CARD_ID, NAME, POWER, HEALTH, RARITY,BIO
 		["Id"] = 297414535,
 		["AltCards"] = {
 			["1x1x1x1x2"] = {
-				["Id"] = 532357578,
+				["Id"] = 540800410,
 				["AltArt"] = true,
 				["Bio"] = "Zanzel scoffed at the devil when she saw him. He was why everything in this world was stagnant and impure. The power the Alpha Brick had to sacrifice just to deal with him!",
 			},
 			["1x1x1x1v2"] = {
-				["Id"] = 540800410,
+				["Id"] = 532357578,
 				["AltArt"] = true,
 				["Effect"] = {
 					Name = "H$X",
